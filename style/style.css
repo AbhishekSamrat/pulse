@@ -1,0 +1,79 @@
+footer{
+    background: #080c16;
+    margin: 10px;
+    padding: 10px;
+  }
+  footer ul li{
+  
+list-style: none;
+    font-size: 20px;
+    color: #1fe374;
+  }
+  footer ul li a{
+  
+text-decoration: none;
+color: #1fe374;
+     }
+  footer b{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+  }
+  ul li{
+      text-align: start;
+      margin-right: 20px;
+  }
+  .card-header{
+      background: #00ad6a;
+      color: white;
+      
+  }
+p{
+  text-align: start;
+}
+.fa{
+  color:green;
+}
+
+p img{
+  width:22px;
+}
+  .btn{
+      background: #1fe374;
+  }
+  .container{
+      margin-top:70px;
+      width: 80%;
+  }
+
+  h1{
+      text-align: center;
+      font-weight: 800;
+  }
+
+  h4{
+      text-align: center;
+      font-weight: normal;
+      font-size: 18px;
+  }
+  h5{
+      font-size: 44px;
+      font-weight: 800;
+      color: #00ad6a !important;
+
+  }
+  .navbar-nav{
+      
+      margin-left: 200px;
+      padding: 15px;
+  }
+  .navbar-nav li a{
+   font-weight: bold;
+   font-size: 18px;
+  }
+
+  @media screen and (max-width:500px) {
+         .navbar-nav{
+      margin-left: 0px;
+  }
+  }
